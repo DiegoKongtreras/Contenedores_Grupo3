@@ -1,4 +1,5 @@
 # Contenedores_Grupo3
+Video Tutorial: [Ver video](https://youtu.be/8e-JjLMM8kk)
 [Administrar aplicaciones clientes-servidor por contenedores
 ](https://hub.docker.com/repository/docker/diegocontreras852/practicas-client/general
 `docker pull diegocontreras852/practicas-client:v1`
